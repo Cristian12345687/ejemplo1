@@ -69,6 +69,6 @@
         <a name="" id="" class="btn btn-primary" href="#" role="button">Ver mas</a>
      </div>
 </div>
-<!--Mostrar productos-->
+
 
 </div>
